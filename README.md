@@ -1,4 +1,4 @@
-MDN Selenium Tests
+MDN Selenium Tests FF
 ============================
 
 This repository holds automated tests for [http://developer.mozilla.org][MOZ]
